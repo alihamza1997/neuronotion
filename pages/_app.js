@@ -24,7 +24,7 @@ function MyApp({ Component, pageProps }) {
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Neuro Notion ┃ The Ultimate ADHD Study Notion Template</title>
-        <link rel="stylesheet" href="../node_modules/tailwindcss/tailwind.css" />
+        <link rel="stylesheet" href="https://raw.githubusercontent.com/joshiebudd/notionwidgets/main/tailwind.css" />
         <link rel="icon" href="https://raw.githubusercontent.com/joshiebudd/notionwidgets/main/logo.webp" type="image/webp" />
         <style>
           {'.hero-section{margin-bottom:50px;} .star-rating{margin-bottom:50px;} .centered-image{display:block;margin-left:auto;margin-right:auto;max-width:100%;height:auto;} .full-header{z-index:10;} h3{color:black;}'}
