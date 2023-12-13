@@ -54,7 +54,7 @@ const HeroSection = () => {
           src="https://raw.githubusercontent.com/joshiebudd/notionwidgets/main/maindemo.webp"
           alt="template"
           width={800}  // Set the width of the image (you can adjust as needed)
-          height={450} // Set the height of the image (adjust for the aspect ratio of your image)
+          height={566} // Set the height of the image (adjust for the aspect ratio of your image)
           layout="responsive" // This makes the image scale nicely to the parent element's width
           />
         </div>
