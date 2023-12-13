@@ -22,3 +22,5 @@ body {
   color: rgb(var(--foreground-rgb));
   background: rgb(255, 255, 255);
 }
+.text-gray-800{color:#000;}
+.FAQ_section .bg-gray-200 div svg{stroke:#000;}
