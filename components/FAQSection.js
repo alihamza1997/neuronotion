@@ -29,8 +29,8 @@ const FAQSection = () => {
               <h3 className="font-semibold text-xl leading-5 text-gray-800">What is a Notion Template?</h3>
               {/* Plus Icon */}
               <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="black" strokeWidth="1.25">
-                <path id="path1" d="M10 4.1665V15.8332" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" />
-                <path d="M4.16602 10H15.8327" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" />
+                <path id="path1" d="M10 4.1665V15.8332" stroke="black" strokeLinecap="round" strokeLinejoin="round" />
+                <path d="M4.16602 10H15.8327" stroke="black" strokeLinecap="round" strokeLinejoin="round" />
               </svg>
             </div>
             <p id="para1" className={`font-normal dark:text-gray-400 text-base leading-6 text-gray-600 mt-4 w-11/12 ${isOpen[0] ? 'block' : 'hidden'}`}>
@@ -44,8 +44,8 @@ const FAQSection = () => {
               <h3 className="font-semibold text-xl leading-5 text-gray-800">How does this work?</h3>
               {/* Plus Icon */}
               <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="black" strokeWidth="1.25">
-                <path id="path2" d="M10 4.1665V15.8332" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" />
-                <path d="M4.16602 10H15.8327" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" />
+                <path id="path2" d="M10 4.1665V15.8332" stroke="black" strokeLinecap="round" strokeLinejoin="round" />
+                <path d="M4.16602 10H15.8327" stroke="black" strokeLinecap="round" strokeLinejoin="round" />
               </svg>
             </div>
             <p id="para2" className={`font-normal dark:text-gray-400 text-base leading-6 text-gray-600 mt-4 w-11/12 ${isOpen[1] ? 'block' : 'hidden'}`}>
@@ -59,8 +59,8 @@ const FAQSection = () => {
               <h3 className="font-semibold text-xl leading-5 text-gray-800">Is this worth $10?</h3>
               {/* Plus Icon */}
               <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="black" strokeWidth="1.25">
-                <path id="path3" d="M10 4.1665V15.8332" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" />
-                <path d="M4.16602 10H15.8327" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" />
+                <path id="path3" d="M10 4.1665V15.8332" stroke="black" strokeLinecap="round" strokeLinejoin="round" />
+                <path d="M4.16602 10H15.8327" stroke="black" strokeLinecap="round" strokeLinejoin="round" />
               </svg>
             </div>
             <p id="para3" className={`font-normal dark:text-gray-400 text-base leading-6 text-gray-600 mt-4 w-11/12 ${isOpen[2] ? 'block' : 'hidden'}`}>
@@ -74,8 +74,8 @@ const FAQSection = () => {
               <h3 className="font-semibold text-xl leading-5 text-gray-800">Do I need Notion Premium?</h3>
               {/* Plus Icon */}
               <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="black" strokeWidth="1.25">
-                <path id="path4" d="M10 4.1665V15.8332" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" />
-                <path d="M4.16602 10H15.8327" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" />
+                <path id="path4" d="M10 4.1665V15.8332" stroke="black" strokeLinecap="round" strokeLinejoin="round" />
+                <path d="M4.16602 10H15.8327" stroke="black" strokeLinecap="round" strokeLinejoin="round" />
               </svg>
             </div>
             <p id="para4" className={`font-normal dark:text-gray-400 text-base leading-6 text-gray-600 mt-4 w-11/12 ${isOpen[3] ? 'block' : 'hidden'}`}>
@@ -89,8 +89,8 @@ const FAQSection = () => {
               <h3 className="font-semibold text-xl leading-5 text-gray-800">I have more questions!</h3>
               {/* Plus Icon */}
               <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="black" strokeWidth="1.25">
-                <path id="path5" d="M10 4.1665V15.8332" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" />
-                <path d="M4.16602 10H15.8327" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" />
+                <path id="path5" d="M10 4.1665V15.8332" stroke="black" strokeLinecap="round" strokeLinejoin="round" />
+                <path d="M4.16602 10H15.8327" stroke="black" strokeLinecap="round" strokeLinejoin="round" />
               </svg>
             </div>
             <p id="para5" className={`font-normal dark:text-gray-400 text-base leading-6 text-gray-600 mt-4 w-11/12 ${isOpen[4] ? 'block' : 'hidden'}`}>
