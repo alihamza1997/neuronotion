@@ -50,7 +50,7 @@ const HeroSection = () => {
         <div className="centered-image max-w-full lg:max-w-[800px] pb-16">
           <Image
           style={{ width:'100%' }}
-          loading="preload"
+          loading="eager"
           src="https://raw.githubusercontent.com/joshiebudd/notionwidgets/main/maindemo.webp"
           alt="template"
           width={800}  // Set the width of the image (you can adjust as needed)
