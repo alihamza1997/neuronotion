@@ -8,7 +8,7 @@
   --background-end-rgb: 255, 255, 255;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
     --background-start-rgb: 0, 0, 0;
@@ -16,7 +16,7 @@
   }
   .text-gray-800{color:#000;}
   .FAQ_section .bg-gray-200 div svg{stroke:#000;}
-}
+} */
 
 body {
   color: rgb(var(--foreground-rgb));
