@@ -19,6 +19,7 @@
     "sharp": "^0.33.0"
   },
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
     "autoprefixer": "^10.4.16",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
