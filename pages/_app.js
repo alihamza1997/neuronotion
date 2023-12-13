@@ -33,9 +33,7 @@ function MyApp({ Component, pageProps }) {
         <link rel="preconnect" href="https://connect.facebook.net" />
         <link rel="preload" href="https://raw.githubusercontent.com/joshiebudd/notionwidgets/main/tailwind.min.css" as="style" />
         <link rel="preload" href="https://raw.githubusercontent.com/joshiebudd/notionwidgets/main/logo.webp" as="image" />
-        <link rel="preload" href="/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjoshiebudd%2Fnotionwidgets%2Fmain%2Flogo.webp" as="image" />
         <link rel="preload" href="https://raw.githubusercontent.com/joshiebudd/notionwidgets/main/maindemo.webp" as="image" />
-        <link rel="preload" href="/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjoshiebudd%2Fnotionwidgets%2Fmain%2Fmaindemo.webp" as="image" />   
         
       </Head>
 
