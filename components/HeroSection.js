@@ -49,7 +49,7 @@ const HeroSection = () => {
         {/* Next.js Image component for optimized image loading */}
         <div className="centered-image max-w-full lg:max-w-[800px] pb-16">
           <img
-          style={{ width:'100%;' }}
+          style={{ width:'100%' }}
           loading="preload"
           src="https://raw.githubusercontent.com/joshiebudd/notionwidgets/main/maindemo.webp"
           alt="template"
