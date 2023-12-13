@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -11,13 +14,11 @@
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
   }
+  ,.text-gray-800{color:#000;}
+  .FAQ_section .bg-gray-200 div svg{stroke:#000;}
 }
 
 body {
   color: rgb(var(--foreground-rgb));
   background: rgb(255, 255, 255);
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
